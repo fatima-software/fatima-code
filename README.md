@@ -1,7 +1,7 @@
 # fatima-code
 <h1 align="center">Hi 👋, I'm Fatima</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
-<p align="left"> <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt=""></p>
+<p align="center"> <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt=""></p>
 
 - 🔭 I’m currently working on **frontend poject**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fatimajouni320@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left" >
 </p>
 
