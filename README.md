@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Fatima</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 <p align="left"> <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt=""></p>
-- 🔭 I’m currently working on **frontend rpoject**
+
+- 🔭 I’m currently working on **frontend poject**
 
 - 🌱 I’m currently learning **foundations of computer science FCS**
 
