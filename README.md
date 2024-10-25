@@ -6,7 +6,7 @@
 🔭 Current focus: Developing innovative frontend solutions</br>
 🌱 Currently learning: Advanced JavaScript frameworks and UI/UX design principles</br>
 💬 Expertise: React, JavaScript, Frontend Development<br>
-<a href="mailto:fatimajouni358@gmail.com">📧 Reach out: fatimajouni358@gmail.com</a>
+📧 Reach out: <a href="mailto:fatimajouni358@gmail.com">fatimajouni358@gmail.com</a>
 </h3>
 
 
