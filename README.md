@@ -2,11 +2,11 @@
 <h1 align="center">Fueled by coffee ☕ and creativity ✨ </h1>
 <h3 align="center">Fatima is a frontend storyteller 📖, turning pixels into meaningful user journey!</h3>
 <p align="center"> <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt=""></p>
-<h1 align="left">
+<h3 align="left">
 🔭 Current focus: Developing innovative frontend solutions</br>
 🌱 Currently learning: Advanced JavaScript frameworks and UI/UX design principles</br>
-💬 Expertise: React, JavaScript, Frontend Development</h1>br>
-📧 Reach out: fatimajouni320@gmail.com </h1>
+💬 Expertise: React, JavaScript, Frontend Development<br>
+📧 Reach out: fatimajouni320@gmail.com </h3>
 
 
 <p align="left" >
